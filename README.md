@@ -71,16 +71,6 @@ I love turning ideas into real products using clean architecture, strong backend
 
 ---
 
-## 📊 GitHub Stats
-
-![Sajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 
 ✨ Some things I love building:
@@ -99,11 +89,11 @@ I love turning ideas into real products using clean architecture, strong backend
 ## 🤝 Connect With Me
 
 🌐 Portfolio: https://sajib-eta.vercel.app/  
-💼 LinkedIn: (add your link)  
-📧 Email: (add your email)  
-🐙 GitHub: https://github.com/YOUR_USERNAME  
+💼 LinkedIn: https://www.linkedin.com/in/sajib-hosen-815a29218/  
+📧 Email: sajib.201h@gmail.com  
+🐙 GitHub: https://github.com/sajib-hosen  
 
 ---
 
-⭐ From [Sajib Hosen](https://github.com/YOUR_USERNAME)
+⭐ From [Sajib Hosen](https://github.com/sajib-hosen)
 
