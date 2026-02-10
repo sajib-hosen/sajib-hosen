@@ -35,10 +35,22 @@ I love turning ideas into real products using clean architecture, strong backend
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-black?style=for-the-badge)
 
 ### 🗄️ Database
 ![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/AWS_EC2-black?style=for-the-badge&logo=amazonaws)
+![S3](https://img.shields.io/badge/AWS_S3-black?style=for-the-badge&logo=amazonaws)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-black?style=for-the-badge&logo=awslambda)
+![SNS](https://img.shields.io/badge/AWS_SNS-black?style=for-the-badge&logo=amazonaws)
+![SES](https://img.shields.io/badge/AWS_SES-black?style=for-the-badge&logo=amazonaws)
+![Route53](https://img.shields.io/badge/Route_53-black?style=for-the-badge&logo=amazonaws)
+![CDN](https://img.shields.io/badge/CDN-black?style=for-the-badge)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-black?style=for-the-badge)
 
 ### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
@@ -47,6 +59,7 @@ I love turning ideas into real products using clean architecture, strong backend
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
+
 
 ## 📌 Current Focus
 
